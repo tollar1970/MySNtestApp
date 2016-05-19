@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Loaner Request">396839194fba5200e8fc7d218110c708</application>
+        <filter table="x_23937_loaner_req_loaner_request">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <name>My Loaner Requests</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles/>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-04-18 07:50:09</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3e1e11a24f3e9200e8fc7d218110c734</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Loaner Requests</sys_name>
+        <sys_package display_value="Loaner Request" source="x_23937_loaner_req">bd7479954fba5200e8fc7d218110c72b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Loaner Request">bd7479954fba5200e8fc7d218110c72b</sys_scope>
+        <sys_update_name>sys_ui_module_3e1e11a24f3e9200e8fc7d218110c734</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-04-18 07:50:09</sys_updated_on>
+        <table>x_23937_loaner_req_loaner_request</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
