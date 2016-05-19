@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="TestLoaner" max_length="40" name="x_23937_loaner_req_testloaner" type="collection"/>
+</database>
